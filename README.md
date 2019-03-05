@@ -13,7 +13,7 @@ Used when Lods Add could not find similar objects for some sections.
 In this case, these sections (paths to the files) need to be written out in the configuration file - and the replacement values, selected in manual
 
 ### Description of commands:
-* -level "name without space" - postfix, which will be added to the name ** of each ** section to exclude duplicates
+* -level "name without space" - postfix, which will be added to the name **of each** section to exclude duplicates
 
 ### Directory structure:
 If there are no directories, then you need to create next to the program.
